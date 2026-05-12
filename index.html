@@ -1,0 +1,15 @@
+---
+title: Visual Archive
+---
+
+<h1>Visual Archive</h1>
+
+<section class="gallery-grid">
+  {% for artwork in site.data.artworks %}
+    <article class="art-card">
+      <img src="{{ artwork.image_art }}" alt="{{ artwork.title }}">
+      <h2>{{ artwork.title }}</h2>
+      <p>{{ artwork.year }} · {{ artwork.medium }}</p>
+    </article>
+  {% endfor %}
+</section>
