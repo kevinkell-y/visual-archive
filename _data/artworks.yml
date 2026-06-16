@@ -1,5 +1,219 @@
-- title: "Sample Record Painting"
-  year: 2024
+- title: "Barbra Streisand"
+  image: "/assets/img/music-art--Barbra Streisand.jpg"
+  year: "2024"
   medium: "Acrylic on vinyl record"
-  image_art: "/assets/images/artworks/sample-circle.jpg"
-  image_framed: "/assets/images/artworks/sample-framed.jpg"
+
+- title: "Beatles (2)"
+  image: "/assets/img/music-art--Beatles (2).jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Beatles (John & Paul 1)"
+  image: "/assets/img/music-art--Beatles (John & Paul 1).jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Beatles (John & Paul 2)"
+  image: "/assets/img/music-art--Beatles (John & Paul 2).jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Beatles (John & Paul 3)"
+  image: "/assets/img/music-art--Beatles (John & Paul 3).jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Beatles (Sgt. Pepper's)"
+  image: "/assets/img/music-art--Beatles (Sgt. Pepper's).jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Beth Horton"
+  image: "/assets/img/music-art--Beth Horton.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Big Lebowski (Walter)"
+  image: "/assets/img/music-art--Big Lebowski (Walter).jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Bill Evans"
+  image: "/assets/img/music-art--Bill Evans.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Green Day"
+  image: "/assets/img/music-art--Green Day.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Grizzly Bear"
+  image: "/assets/img/music-art--Grizzly Bear.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Guns N Roses 1"
+  image: "/assets/img/music-art--Guns N Roses 1.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Johnny Cash (3)"
+  image: "/assets/img/music-art--Johnny Cash (3).jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "KISS (1)"
+  image: "/assets/img/music-art--KISS (1).jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Kid Cudi"
+  image: "/assets/img/music-art--Kid Cudi.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Lenny Kravitz"
+  image: "/assets/img/music-art--Lenny Kravitz.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Marlon Brando"
+  image: "/assets/img/music-art--Marlon Brando.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Neil Young"
+  image: "/assets/img/music-art--Neil Young.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "OASIS"
+  image: "/assets/img/music-art--OASIS.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Paul McCartney (1)"
+  image: "/assets/img/music-art--Paul McCartney (1).jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Ringo Starr"
+  image: "/assets/img/music-art--Ringo Starr.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Roger Waters (Pink Floyd)"
+  image: "/assets/img/music-art--Roger Waters (Pink Floyd).jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Steve Martin"
+  image: "/assets/img/music-art--Steve Martin.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Stevie Ray Vaughn"
+  image: "/assets/img/music-art--Stevie Ray Vaughn.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "The Strokes"
+  image: "/assets/img/music-art--The Strokes.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Thom Yorke (2)"
+  image: "/assets/img/music-art--Thom Yorke (2).jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Bob Dylan"
+  image: "/assets/img/music-art-Bob Dylan.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Elvis Painting"
+  image: "/assets/img/music-art-Elvis Painting.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "IMG 0390"
+  image: "/assets/img/music-art-IMG_0390.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "IMG 1204"
+  image: "/assets/img/music-art-IMG_1204.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "IMG 1494"
+  image: "/assets/img/music-art-IMG_1494.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "IMG 1582"
+  image: "/assets/img/music-art-IMG_1582.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "IMG 1631"
+  image: "/assets/img/music-art-IMG_1631.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "IMG 1921"
+  image: "/assets/img/music-art-IMG_1921.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "IMG 1922"
+  image: "/assets/img/music-art-IMG_1922.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "IMG 2031 (1)"
+  image: "/assets/img/music-art-IMG_2031 (1).jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "IMG 2071 (1)"
+  image: "/assets/img/music-art-IMG_2071 (1).jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "IMG 2768"
+  image: "/assets/img/music-art-IMG_2768.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "IMG 3058"
+  image: "/assets/img/music-art-IMG_3058.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "IMG 3065"
+  image: "/assets/img/music-art-IMG_3065.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Nightmare"
+  image: "/assets/img/music-art-Nightmare.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "Sinatra2"
+  image: "/assets/img/music-art-Sinatra2.jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "photo (8)"
+  image: "/assets/img/music-art-photo (8).jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
+
+- title: "photo (9)"
+  image: "/assets/img/music-art-photo (9).jpg"
+  year: "2024"
+  medium: "Acrylic on vinyl record"
