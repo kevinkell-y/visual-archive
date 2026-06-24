@@ -1,25 +1,51 @@
 ---
-layout: default
 title: Visual Archive
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@300;400;500&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+
 <main class="archive">
-  <header class="archive-header">
-    <h1>Visual Archive</h1>
-    <p>Painted record portraits and cultural artifacts.</p>
-  </header>
+  <section class="hero">
+    <p class="eyebrow">GALLERIA MUSICA</p>
+    <h1>A series of paintings on vinyl records.</h1>
+    <p class="intro">2010-2014.</p>
+  </section>
 
   <section class="gallery">
     {% for artwork in site.data.artworks %}
-      <article class="art-card">
-        <img
-          src="{{ artwork.image | relative_url }}"
+      <article class="piece">
+        <img 
+          src="{{ artwork.image | relative_url }}" 
           alt="{{ artwork.title }}"
-          loading="lazy"
+          class="gallery-image"
+          onclick="openLightbox(this)"
         >
         <h2>{{ artwork.title }}</h2>
-        <p>{{ artwork.year }} · {{ artwork.medium }}</p>
       </article>
     {% endfor %}
   </section>
+
+<div id="lightbox" class="lightbox" onclick="closeLightbox()">
+  <img id="lightbox-img" src="" alt="">
+</div>
+
+<script>
+  function openLightbox(img) {
+    const lightbox = document.getElementById("lightbox");
+    const lightboxImg = document.getElementById("lightbox-img");
+
+    lightboxImg.src = img.src;
+    lightboxImg.alt = img.alt;
+
+    lightbox.classList.add("active");
+  }
+
+  function closeLightbox() {
+    document.getElementById("lightbox").classList.remove("active");
+  }
+</script>
 </main>
